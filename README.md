@@ -12,8 +12,3 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. 
 It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
 
-![Screenshot (16)](https://user-images.githubusercontent.com/125077438/232187074-00352d67-9fa1-4128-bc56-1745f1b7acf1.png)
-
-![Screenshot (17)](https://user-images.githubusercontent.com/125077438/232187077-9d7de71d-aa44-4d10-bc86-adfdfc6ad51f.png)
-
-![Screenshot (18)](https://user-images.githubusercontent.com/125077438/232187080-2c8221b4-ba02-4ab1-8b3c-1be77896287c.png)
